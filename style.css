@@ -57,3 +57,9 @@ h4
 body {
     background-image: radial-gradient(circle, rgb(9, 14, 61), rgb(94, 9, 9), rgb(24, 14, 61));
   }
+  strong{
+      color: white;
+  }
+  p {
+      color: white;
+  }

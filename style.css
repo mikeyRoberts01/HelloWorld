@@ -59,7 +59,7 @@ strong{
 p{
       color: white;
 }
-#cChord{
+.cChord{
       height: 200px;
       width: 175px;
 }
@@ -84,3 +84,6 @@ tr{
 .blankTable{
     background-color:'';
 } */
+.dropdown{
+    width: 27%;
+}

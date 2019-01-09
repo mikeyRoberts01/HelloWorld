@@ -22,7 +22,12 @@
 <div class="ui three item menu">
   <a href='index.html' class='item'>Home</a>
   <a href='chords.html' class='item'>Chords</a>
-  <a href='songs.html' class='item'>Songs</a>
+  <select class="ui dropdown" onChange="window.location.href=this.value">
+    <option value="songs.html">Songs</option>
+    <option value="songs.html">Beginner</option>
+    <option value="songs.html">Intermediate</option>
+    <option value="songs.html">Advanced</option>
+  </select>
 
 
 </div>

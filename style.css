@@ -2,15 +2,21 @@ h1{
     color: #DAE4E7;
     text-align: center;
     border: 2px solid white;
-    background-color: rgb(129, 120, 120)
+    background-color: rgb(129, 120, 120);
 }
 h2{
     color:rgb(40, 35, 44);
     text-decoration: underline;
 }
+h3{
+    color: rgb(249, 249, 255);
+}
 h4{
     line-height: 24pt;
    color: rgb(53, 41, 41);
+}
+h5{
+    color:whitesmoke;
 }
 .header{
     width: 100%;
@@ -77,19 +83,14 @@ p{
     border: 0.1px solid;
     text-align:center;
 }
-
-/* td{
-    border: black 2pt solid;
-    height:300px;
-    width:300px;
-}
-tr{
-    height:300px;
-    width:300px;
-}
-.blankTable{
-    background-color:'';
-} */
 .dropdown{
     width: 27%;
+}
+
+}
+a{
+    color: whitesmoke;
+}
+.link{
+    color: rgba(4, 3, 8, 0.685)
 }
